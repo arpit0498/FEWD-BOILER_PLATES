@@ -1,6 +1,5 @@
 html{
-    background-image: url("../Images/bg.jpg");
-    background-size: 100%;
+      /* The css background image */
   
 }
 h1 {
@@ -39,8 +38,6 @@ div {
         text-align: center;
       }
 
-      /* The css background image */
+   
 
-      body {
-        background-image: url("Assets/Images/cream-decoration.png");
-      }
+    
